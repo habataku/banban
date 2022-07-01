@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/service/',
-    bare: 'https://uvserver1.herokuapp.com/bare/',
+    bare: 'https://bangdrea.herokuapp.com/bare/',
     encodeUrl: Ultraviolet.codec.plain.encode,
     decodeUrl: Ultraviolet.codec.plain.decode,
     handler: '/uv/uv.handler.js',
